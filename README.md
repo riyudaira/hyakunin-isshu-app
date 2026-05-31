@@ -11,7 +11,12 @@
 
 ②　クイズ画面->結果発表画面
 
-<video src="" loop muted autoplay playsinline width="100%"></video>
+
+
+
+
+
+<video src="https://github.com/user-attachments/assets/35ccae22-e004-4f8c-9b05-b879b1c1e253" loop muted autoplay playsinline width="100%"></video>
 
 ## 🚀 主な機能
 
